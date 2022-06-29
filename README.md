@@ -5,10 +5,6 @@
 
 - 📫 How to reach me **mickaelanicette@gmail.com**
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcmikashi" alt="mcmikashi" /></a> </p>
-
-
 <h3 align="left">Languages:</h3>
 <p align="center">
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -37,9 +33,11 @@
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
 </p>
-
+<hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcmikashi&show_icons=true&locale=en&layout=compact" alt="mcmikashi" /></p>
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mcmikashi&show_icons=true&locale=en" alt="mcmikashi" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mcmikashi&" alt="mcmikashi" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcmikashi" alt="mcmikashi" /></a> </p>
