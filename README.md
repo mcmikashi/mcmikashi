@@ -41,3 +41,8 @@
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=mcmikashi&" alt="mcmikashi" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcmikashi" alt="mcmikashi" /></a> </p>
+<div align="center">
+
+![My codewars profile](https://github.r2v.ch/codewars?user=/mcmikashi)
+
+</div>
