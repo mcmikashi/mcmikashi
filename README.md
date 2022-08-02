@@ -42,5 +42,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcmikashi" alt="mcmikashi" /></a> </p>
 <div align="center">
+ <h3>Codewars profile</h3>
+ <a href="https://www.codewars.com/users/mcmikashi"> 
  <img src="https://www.codewars.com/users/mcmikashi/badges/large" alt="code wars bages"/>
-</div>
+ <a/>
+ </div>
